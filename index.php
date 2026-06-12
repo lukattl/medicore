@@ -85,7 +85,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         </section>
 
         <section class="auth-card" aria-label="Prijava i registracija">
-            <div class="tabs" role="tablist">
+             <div class="tabs" role="tablist">
                 <a class="tab <?= $mode !== 'register' ? 'active' : ''; ?>" href="index.php?mode=login">Prijava</a>
                 <a class="tab <?= $mode === 'register' ? 'active' : ''; ?>" href="index.php?mode=register">Registracija</a>
             </div>
