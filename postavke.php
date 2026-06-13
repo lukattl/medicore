@@ -20,7 +20,7 @@ render_header('Postavke', 'postavke');
         </label>
         <label class="toggle-row">
             <span>
-                Jednostavnja objašnjenja
+                Jednostavna objašnjenja
                 <small>Medicinske pojmove prikazuj kraće i razumljivije</small>
             </span>
             <input type="checkbox" checked>
