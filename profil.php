@@ -7,6 +7,7 @@ require_once __DIR__ . '/includes/layout.php';
 $user = require_login();
 render_header('Moj profil', 'profil');
 ?>
+
 <section class="panel profile-panel">
     <div class="avatar-large"><?= strtoupper(substr($user['username'], 0, 1)); ?></div>
     <div>
