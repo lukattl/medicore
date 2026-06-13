@@ -132,7 +132,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     <input type="hidden" name="action" value="google_demo">
                     <button class="google-button" type="submit">
                         <span class="google-mark">G</span>
-                        Nastavi s Google racunom
+                        Nastavi s Google računom
                     </button>
                 </form>
 
