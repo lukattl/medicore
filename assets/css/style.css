@@ -42,7 +42,7 @@ button {
 .auth-page {
     display: grid;
     place-items: center;
-    padding: 32px;
+    padding: 30px;
     background: #f6fbf9;
 }
 
@@ -63,7 +63,7 @@ button {
     flex-direction: column;
     justify-content: center;
     gap: 18px;
-    padding: 42px;
+    padding: 40px;
     background: #ffffff;
     color: var(--ink);
 }
@@ -74,7 +74,7 @@ button {
     align-items: center;
     gap: 12px;
     font-weight: 800;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .brand-mark {
