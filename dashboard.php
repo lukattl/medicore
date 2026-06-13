@@ -53,5 +53,6 @@ render_header('Dashboard', 'dashboard');
         </ul>
     </article>
 </section>
+
 <?php render_footer(); 
 ?>
